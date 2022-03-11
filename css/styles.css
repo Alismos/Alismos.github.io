@@ -17,31 +17,31 @@ body {
   h2 {
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
-    color: #FFFFFF;
+    color: #C70039;
     font-weight: normal;
     padding-bottom: 10px;
   }
   
   h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #f67497;
+    color: #C70039;
   }
   
   a {
-    color: #f67497;
+    color: #C70039;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
   }
   
   a:hover {
-    color: #f45781;
+    color: #C70039;
   }
   
   hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #99ddcc;
+    border-color: #F4D03F;
     border-width: 7px;
     width: 5%;
     margin: 100px auto;
@@ -64,7 +64,7 @@ body {
   }
   
   .bottom-container {
-    background-color: #ffe2e2;
+    background-color: #C70039;
     padding: 40px;
   }
   
@@ -78,9 +78,8 @@ body {
   }
   
   .profile{
-
   }
-  
+
   .career {
     font-size: 1.3rem;
   }
@@ -122,8 +121,12 @@ body {
     position: relative;
   }
   
-  .manuela {
+  .duvan {
+    border: 2px solid #F4D03F;
     margin-top: 70px;
+    border-radius: 50%;
+    width: 180px;
+    height: 208px;
   }
   
   .skill-row {
@@ -133,17 +136,18 @@ body {
   }
   
   .copyright{
+    color: #FFFFFF;
     font-size: 0.75rem;
     padding-top: 20px;
   }
   
   .btn {
     background: #f67497;
-    background-image: -webkit-linear-gradient(top, #f67497, #C34164);
-    background-image: -moz-linear-gradient(top, #f67497, #C34164);
-    background-image: -ms-linear-gradient(top, #f67497, #C34164);
-    background-image: -o-linear-gradient(top, #f67497, #C34164);
-    background-image: linear-gradient(to bottom, #f67497, #C34164);
+    background-image: -webkit-linear-gradient(top, #F4D03F, #e2b709);
+    background-image: -moz-linear-gradient(top, #F4D03F, #e2b709);
+    background-image: -ms-linear-gradient(top, #F4D03F, #e2b709);
+    background-image: -o-linear-gradient(top, #F4D03F, #e2b709);
+    background-image: linear-gradient(to bottom, #F4D03F, #e2b709);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
