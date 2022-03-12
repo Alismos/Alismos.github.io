@@ -1,12 +1,7 @@
 
 #background-wrap {
-    /*bottom: 0;
-	  left: 0;
-      padding-top: 50px;
-    position: fixed;
-	  right: 0;
-	  top: 0;
-	  z-index: -1;*/
+    padding-top: 0px;
+    
 }
 
 /* KEYFRAMES */
@@ -284,6 +279,7 @@ body {
     color: #FFFFFF;
     font-size: 0.75rem;
     padding-top: 20px;
+    text-align: center;
   }
   
   .btn {
@@ -312,3 +308,15 @@ body {
     background-image: linear-gradient(to bottom, #FFA7CA, #f67497);
     text-decoration: none;
   }
+.footer-link{
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer-link-resume{
+  
+  margin-left: auto;
+  margin-right: auto;
+   width: 42px;
+   height: 42px;
+}
