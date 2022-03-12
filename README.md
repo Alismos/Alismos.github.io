@@ -1,2 +1,2 @@
 # Alismo-website
- This repository it's about my personal website 
+ This repository is about my personal website
